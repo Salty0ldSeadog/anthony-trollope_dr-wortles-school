@@ -50,36 +50,33 @@
 		<dc:subject id="subject-7">Americans -- England -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-7">LCHS</meta>
 		<meta property="term" refines="#subject-7">sh2007100589</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A scandal that threatens the future of an exclusive boys’ school poses a moral dilemma for its headmaster.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Dr. Wortle, village rector and headmaster, needs a respectable married couple to serve as assistant master and matron of the school he runs. Mr. and Mrs. Peacocke seem to be the perfect candidates and soon settle into life in the quiet town of Bowick. But in a society where reputation is everything, rumours about their past cause a scandal that threatens to upend the Doctor’s quiet life.&lt;/p&gt;
+			&lt;p&gt;In this late novel, written in 1879 just three years before his death, &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Trollope&lt;/a&gt; uses the Doctor’s predicament to explore the difficult choices that have to be made when rigid social and moral codes stand in conflict with personal integrity and simple human compassion.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/21847</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://catalog.hathitrust.org/Record/001187505.marc</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Dr._Wortle%27s_School</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-trollope_dr-wortles-school</meta>
 		<dc:creator id="author">Anthony Trollope</dc:creator>
 		<meta property="file-as" refines="#author">Trollope, Anthony</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anthony_Trollope</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78089077</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Severin Falkman</dc:contributor>
+		<meta property="file-as" refines="#artist">Falkman, Severin</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nb2008012888</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">E-text prepared by Stanford Carmack</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
+		<dc:contributor id="transcriber-1">Stanford Carmack</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Carmack, Stanford</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Chris Salt</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Salt, Chris</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
